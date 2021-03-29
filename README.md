@@ -24,10 +24,10 @@ Simply click on the name to directly download the latest version of the mod. Lin
 - [Lithium](https://github.com/CaffeineMC/lithium-fabric/suites/2240511832/artifacts/46509597) - Smaller optimizations but anything is welcome.
 -  ⚠️ [Lazydfu](https://ci.velocitypowered.com/job/lazydfu/12/artifact/build/libs/lazydfu-0.1.3-SNAPSHOT.jar) - If the DataFixerUpper finished his school this is the result. Loading times are heavily improved.
 - [Krypton](https://ci.velocitypowered.com/job/krypton/lastSuccessfulBuild/artifact/build/libs/krypton-0.1.3-SNAPSHOT.jar) - Mainly for the server itself but can provide small use for the client aswell.
-- FastChest
--  ⚠️ Entity Culling - Experimental but can help with big farms or lobbies full of players. Can't hurt to try right?
-- Dynamic FPS - 
-- NoFade
+- [FastChest](https://www.curseforge.com/minecraft/mc-mods/fastchest/download/3222361/file) - Makes the chests a static block, big help with huge storage rooms full of chests.
+-  ⚠️ [Entity Culling](https://github.com/tr7zw/EntityCulling-Fabric/suites/2372836291/artifacts/50320558) - Experimental but can help with big farms or lobbies full of players. Can't hurt to try right?
+- [Dynamic FPS](https://github.com/juliand665/Dynamic-FPS/releases/download/2.0.1/dynamic-fps-2.0.1.jar) - Whenever the game is unfocused it puts less work in.
+- [NoFade](https://github.com/UltimateBoomer/mc-no-fade/suites/2194499442/artifacts/45274069) - Simply removes the fade from the Mojang splash screen, small but effective.
 
 ### Functionality
 
@@ -40,7 +40,7 @@ Simply click on the name to directly download the latest version of the mod. Lin
 
 A very important step, here is a how-to:
 
-- Step 1: Download Java 16 from https://adoptopenjdk.net/releases.html?variant=openjdk16&jvmVariant=hotspot
+- Step 1: Download Java 16 from https://github.com/AdoptOpenJDK/openjdk16-binaries/releases/download/jdk-16%2B36/OpenJDK16-jre_x64_windows_hotspot_16_36.msi
 - Step 2: Run the installer and complete it
 - Step 3: Now open the Minecraft launcher and edit your Fabric profile
 - Step 4: Select below "More options"
