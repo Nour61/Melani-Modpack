@@ -1,5 +1,5 @@
 <div align="center">
-# Melani Modpack
+<h1>Melani Modpack</h1>
   </div>
 
 The ultimate solution for performance, perfection is what the Melani name stands for and thus what we strive for.
