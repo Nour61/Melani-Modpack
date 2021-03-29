@@ -17,9 +17,9 @@ Current version of this modpack is focused on Minecraft 1.16.5
 
 ## Mod list
 
-The main attraction, behold my mighty list! 
+The main attraction, behold my mighty list! Simply click on the name to directly download the latest version of the mod. Links are updated at least once a week.
 
-Simply click on the name to directly download the latest version of the mod. Links are updated at least once a week.
+*The symbol ⚠️ means could cause issues in some specific use cases. I personally use them and deem them safe but not everyone plays the same.*
 
 ### Performance
 
@@ -37,10 +37,9 @@ Simply click on the name to directly download the latest version of the mod. Lin
 
 ### Functionality
 
-- AntiGhost
-- Fabric API
-- Modmenu
-- Notenoughcrashes
+- [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api/download/3248105/file) - A requirement for everything. You have to install this for everything to work.
+- [Modmenu](https://github.com/TerraformersMC/ModMenu/suites/2099345544/artifacts/42641822) - A handy mod for organizing and configuration.
+- [Notenoughcrashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes/download/3226331/file) - Useful tool for crashes and doesn't kill the game when it does.
 
 ## Java & JVM Flags
 
