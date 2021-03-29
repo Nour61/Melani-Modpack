@@ -28,6 +28,7 @@ Simply click on the name to directly download the latest version of the mod. Lin
 -  ⚠️ [Entity Culling](https://github.com/tr7zw/EntityCulling-Fabric/suites/2372836291/artifacts/50320558) - Experimental but can help with big farms or lobbies full of players. Can't hurt to try right?
 - [Dynamic FPS](https://github.com/juliand665/Dynamic-FPS/releases/download/2.0.1/dynamic-fps-2.0.1.jar) - Whenever the game is unfocused it puts less work in.
 - [NoFade](https://github.com/UltimateBoomer/mc-no-fade/suites/2194499442/artifacts/45274069) - Simply removes the fade from the Mojang splash screen, small but effective.
+-  ⚠️ [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric/download/3253564/file) - Focuses at reducing ram usage. Have yet to run into issues but still, you are warned.
 
 ### Functionality
 
