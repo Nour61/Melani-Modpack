@@ -6,12 +6,14 @@ The ultimate solution for performance, perfection is what the Melani name stands
 
 ## Introduction
 
-You will need Fabric to make use of this obviously, you can get it from here: https://fabricmc.net/use/. Current version of this modpack is focused on Minecraft 1.16.5
+You will need Fabric to make use of this obviously, you can get it from here: https://fabricmc.net/use/.
 
 Table of contents:
 - Mod list
 - Java & JVM Flags
 - Optional steps
+
+Current version of this modpack is focused on Minecraft 1.16.5
 
 ## Mod list
 
