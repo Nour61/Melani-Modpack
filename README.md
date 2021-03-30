@@ -1,7 +1,7 @@
 
 ## Introduction
 
-You will need Fabric to make use of this obviously, you can get it from here: https://fabricmc.net/use/.
+You will need Fabric to make use of this obviously, you can get it from here: https://fabricmc.net/use/
 
 Table of contents:
 - Mod list
@@ -40,6 +40,7 @@ The main attraction, behold my mighty list! Simply click on the name to directly
 
 A particularly crucial step, here is how-to:
 
+**Installing the latest Java version**
 - Step 1: Download Java 16 from https://github.com/AdoptOpenJDK/openjdk16-binaries/releases/download/jdk-16%2B36/OpenJDK16-jre_x64_windows_hotspot_16_36.msi
 - Step 2: Run the installer and complete it
 - Step 3: Now open the Minecraft launcher and edit your Fabric profile
@@ -51,6 +52,8 @@ A particularly crucial step, here is how-to:
 
 ⚠️ *Please note some mods tend to break on the latest, all the mods from my modpack will work with it but if it does not work with any of your own added mods try Java 11 instead.*
 
+**JVM Flags**
+Coming soon, this is something i myself haven't fully figured out. Default is good enough in most use cases.
 ## Optional steps
 
 Still low on FPS? This corner is reserved for the perfectionist or the one on a low budget. (Coming Soon!! Don't forget!!)
