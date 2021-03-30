@@ -32,11 +32,17 @@ The main attraction, behold my mighty list! Simply click on the name to directly
 -  ⚠️ [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric/download/3253564/file) - Focuses at reducing ram usage. Have yet to run into issues but still, you are warned.
 -  [BetterBeds](https://github.com/TeamMidnightDust/BetterBeds/releases/download/v1.1.0/betterbeds-1.1.0.jar) - Optimizes beds, that's it.
 
-### Functionality
+### Functionality (Required)
 
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api/download/3248105/file) - A requirement for everything. You have to install this for everything to work.
 - [Modmenu](https://github.com/TerraformersMC/ModMenu/suites/2099345544/artifacts/42641822) - A handy mod for organizing and configuration.
 - [Notenoughcrashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes/download/3226331/file) - Useful tool for crashes and doesn't kill the game when it does.
+
+### Tools & Beauty (Optional)
+
+*These mods have a good use but don't contribute towards the main goal; ultimate performance. You can choose to use them or just skip it altogether. These are not included in releases.*
+
+- [Ok Zoomer](https://github.com/joaoh1/OkZoomer/releases/download/4.0.1%2B1.16.2/okzoomer-4.0.1+1.16.2.jar) - Allows you to zoom in.
 
 ## Java & JVM Flags
 
