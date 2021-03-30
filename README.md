@@ -2,7 +2,7 @@
 <h1>Melani Modpack</h1>
   </div>
 
-The ultimate solution for performance, perfection is what the Melani name stands for and thus what we strive for.
+The ultimate solution for performance, perfection is what the Melani name is all about and thus what we strive for.
 
 ## Introduction
 
@@ -54,7 +54,7 @@ A particularly crucial step, here is how-to:
 - Step 7: Select the file and click on save
 - Step 8: And you are done, should give a solid improvement in stability and performance
 
-⚠️ *Please note some mods tend to break on the latest, all the mods from my modpack will work with it but if it does not work with any of your own added mods try Java 11 instead. *
+⚠️ *Please note some mods tend to break on the latest, all the mods from my modpack will work with it but if it does not work with any of your own added mods try Java 11 instead.*
 
 ## Optional steps
 
