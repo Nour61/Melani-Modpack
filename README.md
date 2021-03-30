@@ -6,7 +6,6 @@ You will need Fabric to make use of this obviously, you can get it from here: ht
 Table of contents:
 - [Mod list](https://github.com/Alejandro-Sosa/Melani-Modpack#mod-list)
 - [Java & JVM Flags](https://github.com/Alejandro-Sosa/Melani-Modpack#java--jvm-flags)
-- [Video settings](https://github.com/Alejandro-Sosa/Melani-Modpack#video-settings)
 - [Optional steps](https://github.com/Alejandro-Sosa/Melani-Modpack#optional-steps)
 
 Current version of this modpack is focused on Minecraft 1.16.5
@@ -40,7 +39,7 @@ The main attraction, behold my mighty list! Simply click on the name to directly
 
 ### Tools & Beauty (Optional)
 
-❕ *These mods have a good use but don't contribute towards the main goal; ultimate performance. You can choose to use them or just skip it altogether. These are not included in releases.*
+❕ *These mods have a good use but don't contribute towards the main goal; ultimate performance. You can choose to use them or just skip it altogether. These are not included in releases and all mods are full clientside only*
 
 - [Ok Zoomer](https://github.com/joaoh1/OkZoomer/releases/download/4.0.1%2B1.16.2/okzoomer-4.0.1+1.16.2.jar) - Allows you to zoom in.
 
@@ -63,10 +62,6 @@ A particularly crucial step, here is how-to:
 **JVM Flags**
 - Coming soon, this is something i myself haven't fully figured out. Default is good enough in most use cases.
 - For now this should be a good read: https://gist.github.com/jellysquid3/8a7b21e57f47f5711eb5697e282e502e
-
-## Video settings
-
-Now this one is fairly simple and you will probaly figure this one out by yourself, but here are my settings and recommendations.
 
 ## Optional steps
 
