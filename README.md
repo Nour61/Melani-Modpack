@@ -28,6 +28,7 @@ The main attraction, behold my mighty list! You can download the latest version 
 - [NoFade](https://github.com/UltimateBoomer/mc-no-fade/suites/2194499442/artifacts/45274069) - Simply removes the fade from the Mojang splash screen, small but effective.
 -  ⚠️ [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric/download/3253564/file) - Focuses at reducing ram usage. Have yet to run into issues but still, you are warned.
 -  [BetterBeds](https://github.com/TeamMidnightDust/BetterBeds/releases/download/v1.1.0/betterbeds-1.1.0.jar) - Optimizes beds, that's it.
+-  [Cull Leaves](https://github.com/TeamMidnightDust/CullLeaves/releases/download/v2.0.0/cullleaves-2.0.0.jar) - Makes leaves more transparent providing a increase in framerate.
 
 *The symbol ⚠️ means could cause issues in some specific use cases. I personally use them and deem them safe but not everyone plays the same.*
 
