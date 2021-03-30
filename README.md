@@ -12,7 +12,7 @@ Current version of this modpack is focused on Minecraft 1.16.5
 
 ## Mod list
 
-The main attraction, behold my mighty list! Simply click on the name to directly download the latest version of the mod. Links are updated at least once a week.
+The main attraction, behold my mighty list! You can download the latest version from the [releases](https://github.com/Alejandro-Sosa/Melani-Modpack/releases) as an alternative simply click on the name of each mod to download it.
 
 *The symbol ⚠️ means could cause issues in some specific use cases. I personally use them and deem them safe but not everyone plays the same.*
 
