@@ -53,7 +53,8 @@ A particularly crucial step, here is how-to:
 ⚠️ *Please note some mods tend to break on the latest, all the mods from my modpack will work with it but if it does not work with any of your own added mods try Java 11 instead.*
 
 **JVM Flags**
-Coming soon, this is something i myself haven't fully figured out. Default is good enough in most use cases.
+- Coming soon, this is something i myself haven't fully figured out. Default is good enough in most use cases.
+
 ## Optional steps
 
 Still low on FPS? This corner is reserved for the perfectionist or the one on a low budget. (Coming Soon!! Don't forget!!)
