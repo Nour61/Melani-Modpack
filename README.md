@@ -4,10 +4,10 @@
 You will need Fabric to make use of this obviously, you can get it from here: https://fabricmc.net/use/
 
 Table of contents:
-- Mod list
-- Java & JVM Flags
-- Video settings
-- Optional steps
+- [Mod list](https://github.com/Alejandro-Sosa/Melani-Modpack#mod-list)
+- [Java & JVM Flags](https://github.com/Alejandro-Sosa/Melani-Modpack#java--jvm-flags)
+- [Video settings](https://github.com/Alejandro-Sosa/Melani-Modpack#video-settings)
+- [Optional steps](https://github.com/Alejandro-Sosa/Melani-Modpack#optional-steps)
 
 Current version of this modpack is focused on Minecraft 1.16.5
 
@@ -56,6 +56,7 @@ A particularly crucial step, here is how-to:
 
 **JVM Flags**
 - Coming soon, this is something i myself haven't fully figured out. Default is good enough in most use cases.
+- For now this should be a good read: https://gist.github.com/jellysquid3/8a7b21e57f47f5711eb5697e282e502e
 
 ## Video settings
 
