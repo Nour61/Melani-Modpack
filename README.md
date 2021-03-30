@@ -1,8 +1,3 @@
-<div align="center">
-<h1>Melani Modpack</h1>
-  </div>
-
-The ultimate solution for performance, perfection is what the Melani name is all about and thus what we strive for.
 
 ## Introduction
 
