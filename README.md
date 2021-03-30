@@ -40,7 +40,7 @@ The main attraction, behold my mighty list! Simply click on the name to directly
 
 ### Tools & Beauty (Optional)
 
-*These mods have a good use but don't contribute towards the main goal; ultimate performance. You can choose to use them or just skip it altogether. These are not included in releases.*
+❕ *These mods have a good use but don't contribute towards the main goal; ultimate performance. You can choose to use them or just skip it altogether. These are not included in releases.*
 
 - [Ok Zoomer](https://github.com/joaoh1/OkZoomer/releases/download/4.0.1%2B1.16.2/okzoomer-4.0.1+1.16.2.jar) - Allows you to zoom in.
 
