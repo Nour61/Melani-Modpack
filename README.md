@@ -6,6 +6,7 @@ You will need Fabric to make use of this obviously, you can get it from here: ht
 Table of contents:
 - Mod list
 - Java & JVM Flags
+- Video settings
 - Optional steps
 
 Current version of this modpack is focused on Minecraft 1.16.5
@@ -29,6 +30,7 @@ The main attraction, behold my mighty list! Simply click on the name to directly
 - [Dynamic FPS](https://github.com/juliand665/Dynamic-FPS/releases/download/2.0.1/dynamic-fps-2.0.1.jar) - Whenever the game is unfocused it puts less work in.
 - [NoFade](https://github.com/UltimateBoomer/mc-no-fade/suites/2194499442/artifacts/45274069) - Simply removes the fade from the Mojang splash screen, small but effective.
 -  ⚠️ [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric/download/3253564/file) - Focuses at reducing ram usage. Have yet to run into issues but still, you are warned.
+-  [BetterBeds](https://github.com/TeamMidnightDust/BetterBeds/releases/download/v1.1.0/betterbeds-1.1.0.jar) - Optimizes beds, that's it.
 
 ### Functionality
 
@@ -54,6 +56,10 @@ A particularly crucial step, here is how-to:
 
 **JVM Flags**
 - Coming soon, this is something i myself haven't fully figured out. Default is good enough in most use cases.
+
+## Video settings
+
+Now this one is fairly simple and you will probaly figure this one out by yourself, but here are my settings and recommendations.
 
 ## Optional steps
 
