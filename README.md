@@ -57,4 +57,7 @@ A particularly crucial step, here is how-to:
 
 ## Optional steps
 
-Still low on FPS? This corner is reserved for the perfectionist or the one on a low budget. (Coming Soon!! Don't forget!!)
+Still low on FPS? This corner is reserved for the perfectionist or the one on a low budget. (Still a work-in-progress, feel free to PR any tips for performance 😉)
+
+**Clean up your machine**
+- Remove anything unwanted and kill everything that is running, pretty straight forward right.
