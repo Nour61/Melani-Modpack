@@ -70,3 +70,4 @@ Still low on FPS? This corner is reserved for the perfectionist or the one on a 
 
 **Clean up your machine**
 - Remove anything unwanted and kill everything that is running, pretty straight forward right.
+- Physically clean your PC! Remove any dust or other foreign items from inside and make sure it has good airflow 😁
