@@ -16,8 +16,8 @@ The main attraction, behold my mighty list! You can download the latest version 
 
 ### Performance
 
-- [Sodium](https://github.com/CaffeineMC/sodium-fabric/suites/2359795839/artifacts/49961006) - One of the biggest mods to help, optimizes general rendering.
-- [Sodium Extra](https://github.com/FlashyReese/sodium-extra-fabric/suites/2363742178/artifacts/50058653) - A expansion for Sodium which adds a bunch more toggles.
+- [Sodium](https://github.com/CaffeineMC/sodium-fabric/suites/2359795839/artifacts/49961006)[https://img.shields.io/badge/-%E2%86%93-ff69b4](https://github.com/CaffeineMC/sodium-fabric/suites/2359795839/artifacts/49961006) - One of the biggest mods to help, optimizes general rendering.
+- [Sodium Extra](https://github.com/FlashyReese/sodium-extra-fabric/suites/2363742178/artifacts/50058653)[![CodeFactor](https://www.codefactor.io/repository/github/pl3xgaming/purpur/badge)](https://www.codefactor.io/repository/github/pl3xgaming/purpur) - A expansion for Sodium which adds a bunch more toggles.
 - [Starlight](https://github.com/Spottedleaf/Starlight/releases/download/1.0.0-RC1/starlight-fabric-1.0.0-RC1-1.16.x.jar) - A rewrite of the lightning engine that is considerably faster.
 - [Lithium](https://github.com/CaffeineMC/lithium-fabric/suites/2240511832/artifacts/46509597) - Smaller optimizations but anything is welcome.
 -  ⚠️ [Lazydfu](https://ci.velocitypowered.com/job/lazydfu/12/artifact/build/libs/lazydfu-0.1.3-SNAPSHOT.jar) - If the DataFixerUpper finished his school this is the result. Loading times are heavily improved.
