@@ -1,12 +1,16 @@
 
 ## Introduction
 
-Melani Modpack is a collection of mods purely focused on performance.
+Melani Modpack is a collection of mods purely focused on performance. 
 
-You will need Fabric to make use of this obviously, you can get it from here: https://fabricmc.net/use/
+You will need Fabric to make use of this, you can get it from here: https://fabricmc.net/use/
 
 Table of contents:
 - [Mod list](https://github.com/Alejandro-Sosa/Melani-Modpack#mod-list)
+  - [Performance](https://github.com/Alejandro-Sosa/Melani-Modpack#performance)
+  - [Functionality (Required)](https://github.com/Alejandro-Sosa/Melani-Modpack#functionality-required)
+  - [Utility (Optional)]()
+  - [Prettiness (Optional)]()
 - [Java & JVM Flags](https://github.com/Alejandro-Sosa/Melani-Modpack#java--jvm-flags)
 - [Optional steps](https://github.com/Alejandro-Sosa/Melani-Modpack#optional-steps)
 
@@ -14,9 +18,9 @@ Current version of this modpack is focused on Minecraft 1.16.5
 
 ## Mod list
 
-* Downloads can be found at the [releases](https://github.com/Alejandro-Sosa/Melani-Modpack/releases). Alternatively you can click on the download button to download the latest version of the mod. Click on the name of the mod to get redirected to the source page. *Updated atleast weekly, last updated at 31-3-2021*
+* Downloads can be found at [Releases](https://github.com/Alejandro-Sosa/Melani-Modpack/releases). Alternatively you can click on the download button to download the latest version of the mod. Click on the name of the mod to get redirected to the source page. All mods are client-side and don't require the server to have it installed.
  
-The main attraction, behold my mighty list! 🌩️
+The main attraction, behold my mighty list! 🌩️ *Updated weekly, last updated at 31-3-2021*
 
 ### Performance
 
@@ -25,7 +29,7 @@ The main attraction, behold my mighty list! 🌩️
 - [Starlight](https://github.com/Spottedleaf/Starlight) [![Starlight](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/Spottedleaf/Starlight/releases/download/1.0.0-RC1/starlight-fabric-1.0.0-RC1-1.16.x.jar) - A rewrite of the lightning engine that is considerably faster.
 - [Lithium](https://github.com/CaffeineMC/lithium-fabric) [![Lithium](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/CaffeineMC/lithium-fabric/suites/2240511832/artifacts/46509597) - Smaller optimizations but anything is welcome.
 -  ⚠️ [LazyDFU](https://github.com/astei/lazydfu) [![LazyDFU](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://ci.velocitypowered.com/job/lazydfu/12/artifact/build/libs/lazydfu-0.1.3-SNAPSHOT.jar) - If the DataFixerUpper finished his school this is the result. Loading times are heavily improved.
-- [Krypton](https://github.com/astei/krypton) [![LazyDFU](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://ci.velocitypowered.com/job/krypton/lastSuccessfulBuild/artifact/build/libs/krypton-0.1.3-SNAPSHOT.jar) - Mainly for the server itself but can provide small use for the client aswell.
+- [Krypton](https://github.com/astei/krypton) [![LazyDFU](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://ci.velocitypowered.com/job/krypton/lastSuccessfulBuild/artifact/build/libs/krypton-0.1.3-SNAPSHOT.jar) - Mainly for the server itself but can provide small use for the client in addition.
 - [FastChest](https://www.curseforge.com/minecraft/mc-mods/fastchest) [![FastChest](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://www.curseforge.com/minecraft/mc-mods/fastchest/download/3222361/file) - Makes the chests a static block, powerful help with huge storage rooms full of chests.
 -  ⚠️ [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) [![EntityCulling](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/tr7zw/EntityCulling-Fabric/suites/2372836291/artifacts/50320558) - Experimental but can help with big farms or lobbies full of players. Can't hurt to try right?
 - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) [![DynamicFPS](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/juliand665/Dynamic-FPS/releases/download/2.0.1/dynamic-fps-2.0.1.jar) - Whenever the game is unfocused it puts less work in.
@@ -42,11 +46,17 @@ The main attraction, behold my mighty list! 🌩️
 - [Modmenu](https://github.com/TerraformersMC/ModMenu) [![Modmenu](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/TerraformersMC/ModMenu/suites/2099345544/artifacts/42641822) - A handy mod for organizing and configuration.
 - [Notenoughcrashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes) [![Notenoughcrashes](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes/download/3226331/file) - Useful tool for crashes and doesn't kill the game when it does.
 
-### Tools & Beauty (Optional)
+### Utility (Optional)
 
 ❕ *These mods have a good use but don't contribute towards the main goal; ultimate performance. You can choose to use them or just skip it altogether. These are not included in releases and all mods are full clientside only*
 
 - [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) [![OkZoomer](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/joaoh1/OkZoomer/releases/download/4.0.1%2B1.16.2/okzoomer-4.0.1+1.16.2.jar) - Allows you to zoom in.
+
+### Prettiness (Optional)
+
+❕ *Mods that will impact performance but will make your game a bit more prettier, not included in releases and all mods are clientside only.*
+
+- [Falling Leaves](https://modrinth.com/mod/fallingleaves) [![FallingLeaves](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/RandomMcSomethin/fallingleaves/suites/2231705997/artifacts/46259865) - Pretty leaves falling from leaves, a very nice touch to worlds.
 
 ## Java & JVM Flags
 
