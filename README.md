@@ -9,17 +9,17 @@ Table of contents:
 - [Mod list](https://github.com/Alejandro-Sosa/Melani-Modpack#mod-list)
   - [Performance](https://github.com/Alejandro-Sosa/Melani-Modpack#performance)
   - [Functionality (Required)](https://github.com/Alejandro-Sosa/Melani-Modpack#functionality-required)
-  - [Utility (Optional)]()
-  - [Prettiness (Optional)]()
+  - [Utility (Optional)](https://github.com/Alejandro-Sosa/Melani-Modpack#utility-optional)
+  - [Prettiness (Optional)](https://github.com/Alejandro-Sosa/Melani-Modpack#prettiness-optional)
 - [Java & JVM Flags](https://github.com/Alejandro-Sosa/Melani-Modpack#java--jvm-flags)
 - [Optional steps](https://github.com/Alejandro-Sosa/Melani-Modpack#optional-steps)
-
-Current version of this modpack is focused on Minecraft 1.16.5
 
 ## Mod list
 
 * Downloads can be found at [Releases](https://github.com/Alejandro-Sosa/Melani-Modpack/releases). Alternatively you can click on the download button to download the latest version of the mod. Click on the name of the mod to get redirected to the source page. All mods are client-side and don't require the server to have it installed.
- 
+
+* Current version of this modpack is focused on Minecraft 1.16.5.
+
 The main attraction, behold my mighty list! 🌩️ *Updated weekly, last updated at 31-3-2021*
 
 ### Performance
