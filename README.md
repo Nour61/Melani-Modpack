@@ -37,6 +37,7 @@ The main attraction, behold my mighty list! 🌩️ *Updated weekly, last update
 -  ⚠️ [FerriteCore](https://github.com/malte0811/FerriteCore) [![FerriteCore](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric/download/3253564/file) - Focuses at reducing ram usage. Have yet to run into issues but still, you are warned.
 -  [BetterBeds](https://modrinth.com/mod/better-beds) [![BetterBeds](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/TeamMidnightDust/BetterBeds/releases/download/v1.1.0/betterbeds-1.1.0.jar) - Optimizes beds, that's it.
 -  [CullLeaves](https://modrinth.com/mod/cull-leaves) [![CullLeaves](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/TeamMidnightDust/CullLeaves/releases/download/v2.0.0/cullleaves-2.0.0.jar) - Makes leaves more transparent providing a increase in framerate.
+-  [Retro Items](https://modrinth.com/mod/retroitems) [![RetroItems](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/hatninja/RetroItems/suites/2383435139/artifacts/50617931) - Items are rendered more simple, improving performance.
 
 *The symbol ⚠️ means could cause issues in some specific use cases. I personally use them and deem them safe but not everyone plays the same.*
 
