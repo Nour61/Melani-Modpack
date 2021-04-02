@@ -20,7 +20,7 @@ Table of contents:
 
 * Current version of this modpack is focused on Minecraft 1.16.5.
 
-The main attraction, behold my mighty list! 🌩️ *Updated weekly, last updated at 31-3-2021*
+The main attraction, behold my mighty list! 🌩️ *Updated weekly, last updated at 02/04/2021*
 
 ### Performance
 
@@ -30,8 +30,8 @@ The main attraction, behold my mighty list! 🌩️ *Updated weekly, last update
 - [Lithium](https://github.com/CaffeineMC/lithium-fabric) [![Lithium](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/CaffeineMC/lithium-fabric/suites/2240511832/artifacts/46509597) - Smaller optimizations but anything is welcome.
 -  ⚠️ [LazyDFU](https://github.com/astei/lazydfu) [![LazyDFU](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://ci.velocitypowered.com/job/lazydfu/12/artifact/build/libs/lazydfu-0.1.3-SNAPSHOT.jar) - If the DataFixerUpper finished his school this is the result. Loading times are heavily improved.
 - [Krypton](https://github.com/astei/krypton) [![LazyDFU](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://ci.velocitypowered.com/job/krypton/lastSuccessfulBuild/artifact/build/libs/krypton-0.1.3-SNAPSHOT.jar) - Mainly for the server itself but can provide small use for the client in addition.
-- [FastChest](https://www.curseforge.com/minecraft/mc-mods/fastchest) [![FastChest](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://www.curseforge.com/minecraft/mc-mods/fastchest/download/3222361/file) - Makes the chests a static block, powerful help with huge storage rooms full of chests.
--  ⚠️ [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) [![EntityCulling](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/tr7zw/EntityCulling-Fabric/suites/2372836291/artifacts/50320558) - Experimental but can help with big farms or lobbies full of players. Can't hurt to try right?
+- [Enhanced Block Entities](https://modrinth.com/mod/ebe) [![EBE](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://cdn.modrinth.com/data/OVuFYfre/versions/0.1/enhancedblockentities-0.1--1.16.x.jar) - Makes the chests a static block, powerful help with huge storage rooms full of chests.
+-  ⚠️ [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) [![EntityCulling](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/tr7zw/EntityCulling-Fabric/suites/2403487054/artifacts/51153213) - Experimental but can help with big farms or lobbies full of players. Can't hurt to try right?
 - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) [![DynamicFPS](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/juliand665/Dynamic-FPS/releases/download/2.0.1/dynamic-fps-2.0.1.jar) - Whenever the game is unfocused it puts less work in.
 - [NoFade](https://modrinth.com/mod/no-fade) [![NoFade](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/UltimateBoomer/mc-no-fade/suites/2194499442/artifacts/45274069) - Simply removes the fade from the Mojang splash screen, small but effective.
 -  ⚠️ [FerriteCore](https://github.com/malte0811/FerriteCore) [![FerriteCore](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric/download/3253564/file) - Focuses at reducing ram usage. Have yet to run into issues but still, you are warned.
@@ -45,6 +45,7 @@ The main attraction, behold my mighty list! 🌩️ *Updated weekly, last update
 
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) [![FabricAPI](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://www.curseforge.com/minecraft/mc-mods/fabric-api/download/3248105/file) - A requirement for everything. You have to install this for everything to work.
 - [Modmenu](https://github.com/TerraformersMC/ModMenu) [![Modmenu](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/TerraformersMC/ModMenu/suites/2099345544/artifacts/42641822) - A handy mod for organizing and configuration.
+- [Indium](https://github.com/comp500/Indium) [![Indium](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/comp500/Indium/suites/2363754187/artifacts/50058978) - Requirement for Enhanced Block Entities.
 - [Notenoughcrashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes) [![Notenoughcrashes](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes/download/3226331/file) - Useful tool for crashes and doesn't kill the game when it does.
 
 ### Utility (Optional)
