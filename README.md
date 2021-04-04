@@ -20,7 +20,7 @@ Table of contents:
 
 * Current version of this modpack is focused on Minecraft 1.16.5.
 
-The main attraction, behold my mighty list! 🌩️ *Updated weekly, last updated at 02/04/2021*
+The main attraction, behold my mighty list! 🌩️ *Updated weekly, last updated at 04/04/2021*
 
 ### Performance
 
@@ -28,10 +28,10 @@ The main attraction, behold my mighty list! 🌩️ *Updated weekly, last update
   - [Sodium Extra](https://github.com/FlashyReese/sodium-extra-fabric) [![SodiumExtra](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/FlashyReese/sodium-extra-fabric/suites/2363742178/artifacts/50058653) - A expansion for Sodium which adds a bunch more toggles.
 - [Starlight](https://github.com/Spottedleaf/Starlight) [![Starlight](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/Spottedleaf/Starlight/releases/download/1.0.0-RC1/starlight-fabric-1.0.0-RC1-1.16.x.jar) - A rewrite of the lightning engine that is considerably faster.
 - [Lithium](https://github.com/CaffeineMC/lithium-fabric) [![Lithium](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/CaffeineMC/lithium-fabric/suites/2240511832/artifacts/46509597) - Smaller optimizations but anything is welcome.
--  ⚠️ [LazyDFU](https://github.com/astei/lazydfu) [![LazyDFU](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://ci.velocitypowered.com/job/lazydfu/12/artifact/build/libs/lazydfu-0.1.3-SNAPSHOT.jar) - If the DataFixerUpper finished his school this is the result. Loading times are heavily improved.
-- [Krypton](https://github.com/astei/krypton) [![LazyDFU](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://ci.velocitypowered.com/job/krypton/lastSuccessfulBuild/artifact/build/libs/krypton-0.1.3-SNAPSHOT.jar) - Mainly for the server itself but can provide small use for the client in addition.
+-  ⚠️ [LazyDFU](https://github.com/astei/lazydfu) [![LazyDFU](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://ci.velocitypowered.com/job/lazydfu/13/artifact/build/libs/lazydfu-0.1.3-SNAPSHOT.jar) - If the DataFixerUpper finished his school this is the result. Loading times are heavily improved.
+- [Krypton](https://github.com/astei/krypton) [![LazyDFU](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://ci.velocitypowered.com/job/krypton/53/artifact/build/libs/krypton-0.1.3-SNAPSHOT.jar) - Mainly for the server itself but can provide small use for the client in addition.
 - [Enhanced Block Entities](https://modrinth.com/mod/ebe) [![EBE](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://cdn.modrinth.com/data/OVuFYfre/versions/0.1/enhancedblockentities-0.1--1.16.x.jar) - Makes the chests a static block, powerful help with huge storage rooms full of chests.
--  ⚠️ [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) [![EntityCulling](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/tr7zw/EntityCulling-Fabric/suites/2403487054/artifacts/51153213) - Experimental but can help with big farms or lobbies full of players. Can't hurt to try right?
+-  ⚠️ [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) [![EntityCulling](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/tr7zw/EntityCulling-Fabric/suites/2414179978/artifacts/51463326) - Experimental but can help with big farms or lobbies full of players. Can't hurt to try right?
 - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) [![DynamicFPS](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/juliand665/Dynamic-FPS/releases/download/2.0.1/dynamic-fps-2.0.1.jar) - Whenever the game is unfocused it puts less work in.
 - [NoFade](https://modrinth.com/mod/no-fade) [![NoFade](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/UltimateBoomer/mc-no-fade/suites/2194499442/artifacts/45274069) - Simply removes the fade from the Mojang splash screen, small but effective.
 -  ⚠️ [FerriteCore](https://github.com/malte0811/FerriteCore) [![FerriteCore](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric/download/3253564/file) - Focuses at reducing ram usage. Have yet to run into issues but still, you are warned.
@@ -58,7 +58,7 @@ The main attraction, behold my mighty list! 🌩️ *Updated weekly, last update
 
 ❕ *Mods that will impact performance but will make your game a bit more prettier, not included in releases and all mods are clientside only.*
 
-- [Falling Leaves](https://modrinth.com/mod/fallingleaves) [![FallingLeaves](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/RandomMcSomethin/fallingleaves/suites/2231705997/artifacts/46259865) - Pretty leaves falling from leaves, a very nice touch to worlds.
+- [Falling Leaves](https://modrinth.com/mod/fallingleaves) [![FallingLeaves](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/RandomMcSomethin/fallingleaves/suites/2409365867/artifacts/51323158) - Pretty leaves falling from leaves, a very nice touch to worlds.
 
 ## Java & JVM Flags
 
