@@ -38,6 +38,7 @@ The main attraction, behold my mighty list! 🌩️ *Updated weekly, last update
 -  [BetterBeds](https://modrinth.com/mod/better-beds) [![BetterBeds](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/TeamMidnightDust/BetterBeds/releases/download/v1.1.0/betterbeds-1.1.0.jar) - Optimizes beds, that's it.
 -  [CullLeaves](https://modrinth.com/mod/cull-leaves) [![CullLeaves](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/TeamMidnightDust/CullLeaves/releases/download/v2.0.0/cullleaves-2.0.0.jar) - Makes leaves more transparent providing a increase in framerate.
 -  [Retro Items](https://modrinth.com/mod/retroitems) [![RetroItems](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/hatninja/RetroItems/suites/2383435139/artifacts/50617931) - Items are rendered more simple, improving performance.
+-  ⚠️ [Hydrogen](https://github.com/CaffeineMC/hydrogen-fabric) [![Hydrogen](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/CaffeineMC/hydrogen-fabric/suites/1850578525/artifacts/35880030) - Mod that reduces memory usage, experimental.
 
 *The symbol ⚠️ means could cause issues in some specific use cases. I personally use them and deem them safe but not everyone plays the same.*
 
@@ -59,6 +60,7 @@ The main attraction, behold my mighty list! 🌩️ *Updated weekly, last update
 ❕ *Mods that will impact performance but will make your game a bit more prettier, not included in releases and all mods are clientside only.*
 
 - [Falling Leaves](https://modrinth.com/mod/fallingleaves) [![FallingLeaves](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/RandomMcSomethin/fallingleaves/suites/2409365867/artifacts/51323158) - Pretty leaves falling from leaves, a very nice touch to worlds.
+- [Bedrockify](https://github.com/juancarloscp52/BedrockIfy) [![Bedrockify](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/juancarloscp52/BedrockIfy/releases/download/1.0.0%2Bmc1.16.2-5/bedrockify-1.0.0+mc1.16.2-5.jar)
 
 ## Java & JVM Flags
 
