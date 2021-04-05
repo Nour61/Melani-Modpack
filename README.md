@@ -25,7 +25,7 @@ The main attraction, behold my mighty list! 🌩️ *Updated weekly, last update
 ### Performance
 
 - [Sodium](https://github.com/CaffeineMC/sodium-fabric) [![Sodium](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/CaffeineMC/sodium-fabric/suites/2359795839/artifacts/49961006) - One of the biggest mods to help, optimizes general rendering.
-  - [Sodium Extra](https://github.com/FlashyReese/sodium-extra-fabric) [![SodiumExtra](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/FlashyReese/sodium-extra-fabric/suites/2363742178/artifacts/50058653) - A expansion for Sodium which adds a bunch more toggles.
+  - [Sodium Extra](https://github.com/FlashyReese/sodium-extra-fabric) [![SodiumExtra](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/FlashyReese/sodium-extra-fabric/suites/2419690529/artifacts/51602270) - A expansion for Sodium which adds a bunch more toggles.
 - [Starlight](https://github.com/Spottedleaf/Starlight) [![Starlight](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/Spottedleaf/Starlight/releases/download/1.0.0-RC1/starlight-fabric-1.0.0-RC1-1.16.x.jar) - A rewrite of the lightning engine that is considerably faster.
 - [Lithium](https://github.com/CaffeineMC/lithium-fabric) [![Lithium](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/CaffeineMC/lithium-fabric/suites/2240511832/artifacts/46509597) - Smaller optimizations but anything is welcome.
 -  ⚠️ [LazyDFU](https://github.com/astei/lazydfu) [![LazyDFU](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://ci.velocitypowered.com/job/lazydfu/13/artifact/build/libs/lazydfu-0.1.3-SNAPSHOT.jar) - If the DataFixerUpper finished his school this is the result. Loading times are heavily improved.
@@ -60,7 +60,6 @@ The main attraction, behold my mighty list! 🌩️ *Updated weekly, last update
 ❕ *Mods that will impact performance but will make your game a bit more prettier, not included in releases and all mods are clientside only.*
 
 - [Falling Leaves](https://modrinth.com/mod/fallingleaves) [![FallingLeaves](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/RandomMcSomethin/fallingleaves/suites/2409365867/artifacts/51323158) - Pretty leaves falling from leaves, a very nice touch to worlds.
-- [Bedrockify](https://github.com/juancarloscp52/BedrockIfy) [![Bedrockify](https://img.shields.io/badge/-%E2%86%93-brightgreen)](https://github.com/juancarloscp52/BedrockIfy/releases/download/1.0.0%2Bmc1.16.2-5/bedrockify-1.0.0+mc1.16.2-5.jar)
 
 ## Java & JVM Flags
 
